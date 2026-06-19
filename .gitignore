@@ -1,0 +1,7 @@
+# Generated output - don't commit binaries
+Developer_Blueprint.pdf
+gumroad_cover.png
+gumroad_thumbnail.png
+__pycache__/
+*.pyc
+.DS_Store
