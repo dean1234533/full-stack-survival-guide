@@ -106,7 +106,7 @@ The full Blueprint includes the complete **6-Month Roadmap**, a **Syntax Cheat S
 
 ---
 
-## **[➡️ Download the Blueprint — £9.99](https://deanburt.gumroad.com/l/wkiilt)**
+## **[➡️ Download the Blueprint — £29.99](https://deanburt.gumroad.com/l/wkiilt)**
 
 ---
 
