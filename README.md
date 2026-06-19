@@ -2,6 +2,10 @@
 
 ### The only roadmap you need to go from watching videos to shipping real-world apps.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-ff90e8?logo=gumroad&logoColor=white)](https://deanburt.gumroad.com/l/wkiilt)
+[![Topics](https://img.shields.io/badge/topics-React%20%7C%20Firebase%20%7C%20Git%20%7C%20AI-2563eb)](#)
+
 ---
 
 > **"Don't memorize, build. Don't finish the course, finish the project."**
@@ -24,7 +28,11 @@ The **Build-First approach** flips the model. Instead of finishing a course and 
 |---|---|
 | 🗺️ 6-Month Roadmap | A month-by-month plan from HTML to deployed, live app |
 | 🛠️ Debugging Flowchart | A 4-step decision tree to fix any bug, every time |
-| ⚡ Syntax Cheat Sheet | The JS, React & Firebase patterns you'll use daily |
+| ⚡ JS ES6+ Cheat Sheet | 25 must-know patterns you'll reach for every single day |
+| ⚛️ React Hooks Cheat Sheet | useState, useEffect, useContext, useRef, useMemo, useCallback |
+| 🔥 Firebase CRUD Cheat Sheet | Every Firestore method with real code patterns |
+| 🌿 Git Essentials Cheat Sheet | 10 commands cold + the full Undo toolkit |
+| 🤖 AI Co-Pilot Strategy | 3 plug-and-play prompt templates to use AI like a senior dev |
 | 🚢 The Ship-It Strategy | How to deploy, share, and turn your project into proof |
 
 ---
@@ -85,16 +93,16 @@ Something is broken.
 
 ---
 
-The full Blueprint includes the complete **6-Month Roadmap**, a **Syntax Cheat Sheet** covering 25 essential JS, React, and Firebase patterns, and the **Ship-It Strategy** — everything in one printable PDF, built to sit next to your keyboard while you work.
-
----
-
 ## ✅ Everything You Get
 
-- **6-Month Build-First Roadmap** — a clear, project-driven plan from HTML all the way to a deployed, shareable app. No detours. No filler.
+- **6-Month Build-First Roadmap** — a clear, project-driven plan from HTML to a deployed, shareable app. No detours. No filler.
 - **Master Debugging Decision Tree** — the exact 4-step flowchart above, printable and ready to pin above your desk.
-- **Essential Syntax Cheat Sheet** — 25 must-know patterns for modern JavaScript (ES6+), React Hooks, Firebase Auth, and Firestore. The code you'll reach for every single day.
-- **The Ship-It Strategy** — how to deploy your project, write a README that gets noticed, and use your finished app as proof of skill — whether you're job hunting or building your own business.
+- **JS ES6+ Cheat Sheet** — 25 must-know patterns for modern JavaScript. The code you'll reach for every single day.
+- **React Hooks Cheat Sheet** — useState, useEffect, useContext, useRef, useMemo, useCallback with real patterns, not just definitions.
+- **Firebase Firestore CRUD Cheat Sheet** — every method you need plus the exact write pattern with auth and serverTimestamp.
+- **Git Essentials Cheat Sheet** — 10 commands you need cold, plus the full Undo toolkit so you never lose work again.
+- **The AI Co-Pilot Strategy** — 3 plug-and-play prompt templates (Explain, Debug, Refactor) so you use AI to think better, not avoid thinking.
+- **The Ship-It Strategy** — how to deploy your project, write a README that gets noticed, and use your finished app as proof of skill.
 
 ---
 
@@ -102,17 +110,13 @@ The full Blueprint includes the complete **6-Month Roadmap**, a **Syntax Cheat S
 
 > **Ready to stop collecting tutorials and start building your career?**
 
-### Get the full, printable, 6-Month Build-First Blueprint (PDF).
-
----
+### Get the full, printable, Build-First Developer Blueprint (PDF) — instant download.
 
 ## **[➡️ Download the Blueprint — £29.99](https://deanburt.gumroad.com/l/wkiilt)**
 
----
-
 *One purchase. Instant download. No subscription. No fluff.*
 
-*Designed to sit next to your keyboard — not collect dust in your downloads folder.*
+*30-day money-back guarantee — if you aren't building faster and debugging smarter, you get a full refund.*
 
 ---
 
@@ -138,6 +142,14 @@ This guide was written by a self-taught developer who spent a year studying full
 **You never needed to finish the course. You needed a plan.**
 
 The Blueprint is that plan.
+
+---
+
+## 📄 Licence
+
+The **source code** in this repository (PDF generator, image generator, landing page) is open source under the [MIT Licence](LICENSE).
+
+The **PDF content** — all written guides, cheat sheets, frameworks, and strategies — is copyright © 2026 Dean Burt. All rights reserved. Purchasing grants a single-user personal licence only. Redistribution or resale of the PDF is not permitted.
 
 ---
 
