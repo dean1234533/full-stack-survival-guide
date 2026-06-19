@@ -1,0 +1,65 @@
+AMAZON KDP PRODUCT DESCRIPTION
+Copy and paste this into your KDP book description field.
+---------------------------------------------------------------
+
+<b>You have watched hundreds of hours of tutorials. You still cannot build anything from scratch.</b>
+
+You follow along just fine. The code makes sense on screen. But the moment the video ends and you open a blank editor — you freeze. You have started four courses in the last year. You have finished zero real projects. You secretly wonder if you are just not built for this.
+
+You are not broken. <b>You are a victim of an industry that profits from keeping you stuck.</b>
+
+The tutorial industry is not designed to make you independent. It is designed to make you feel productive while keeping you dependent on the next video, the next course, the next instructor. Completion bars move. Certificates get issued. And yet nothing ships.
+
+<b>This book is not a tutorial. It is your way out.</b>
+
+<b>The 6-Month Build-First Developer Blueprint</b> is a professional survival guide for the modern, self-taught developer. Not a course to follow. Not a syllabus to complete. A battle-tested, build-first system that tells you exactly what to learn, in what order, using what tools — and gets you shipping real, portfolio-ready apps as fast as possible.
+
+---
+
+<b>WHAT YOU WILL MASTER:</b>
+
+<b>The 6-Month Roadmap — A clear, step-by-step path from zero to deployed app.</b>
+Month by month. What to learn, what to skip, and what to build. No detours. No filler. Six months from today, you have a live, shareable application — or you do not.
+
+<b>The Developer's Toolbelt — The exact free tools the pros use.</b>
+VS Code extensions. Git from day one. Vercel for instant deployment. Firebase and Supabase for your backend. Figma for design. Every tool explained, prioritised, and ready to use.
+
+<b>The AI Co-Pilot Strategy — How to use AI as a mentor and learn 10x faster.</b>
+Three plug-and-play prompt templates — Explain, Debug, and Refactor — that turn AI from an answer machine into a personal senior developer who teaches you while it helps you. Learn faster and write better code at the same time.
+
+<b>The Master Debugging Flowchart — Fix any bug, every time.</b>
+The exact 4-step process that professional developers follow. Check the console. Check your data. Check the UI. Use AI correctly. In that order. No more panic. No more hour-long rabbit holes.
+
+<b>The Ship-It Philosophy — Stop over-engineering. Start launching.</b>
+The most dangerous trap is not tutorial hell — it is the project you have been "almost finished" with for six months. This chapter gives you the deploy process, the README template that gets noticed, and the mindset shift that turns your project into proof of skill.
+
+---
+
+<b>THIS IS ABOUT FREEDOM.</b>
+
+Not just a job. Not just a salary. The freedom to build whatever idea you have, whenever you have it, without needing an instructor to guide every step. The freedom to launch your own product at midnight on a Tuesday because you have the skills to act immediately.
+
+That freedom does not come from finishing another course. <b>It comes from shipping something real.</b>
+
+A deployed project you can show beats ten unfinished courses every single time. This guide is the system that gets you there.
+
+---
+
+<b>Click 'Buy Now' and take control of your coding career today.</b>
+
+Stop collecting tutorials. Stop waiting until you feel ready. Open your editor and build the thing.
+
+<i>30-day money-back guarantee — if you are not building faster and debugging smarter, you get a full refund. No questions. No hoops.</i>
+
+---------------------------------------------------------------
+BOOK DETAILS FOR KDP:
+Title:    The 6-Month Build-First Developer Blueprint
+Subtitle: How to Escape Tutorial Hell and Start Shipping Real-World Apps
+Author:   Dean Burt
+Keywords: self-taught developer, tutorial hell, learn to code, React Firebase guide,
+          developer roadmap, web development, coding career, build first, ship it,
+          full stack developer
+Categories:
+  - Computers & Technology > Programming > Web Programming
+  - Computers & Technology > Web Development & Design
+---------------------------------------------------------------
