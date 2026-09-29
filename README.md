@@ -154,3 +154,12 @@ The **PDF content** — all written guides, cheat sheets, frameworks, and strate
 ---
 
 *Built for self-taught developers who are done watching and ready to build.*
+
+---
+
+## Author
+
+Built by **Dean Da Dev**, a UK full-stack developer building web apps, websites,
+and AI tools.
+
+🌐 [dean-da-dev.co.uk](https://www.dean-da-dev.co.uk/) · 💼 [More projects](https://www.dean-da-dev.co.uk/portfolio) · 🐙 [GitHub](https://github.com/dean1234533)
